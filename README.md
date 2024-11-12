@@ -67,7 +67,7 @@ The properties of the collection are intuitive.
 ![Tests](/docs/tests.png)
 
 **3.** Once you're ready to start, **⏰⏰⏰ NOTE THE START TIME ⏰⏰⏰**.
-- To ensure the tests pass, 🎯 **you must appropriately implement the countRatingEqual5ByBrand(String brand) method, using the polyglot solution**.
+- To ensure the tests pass, 🎯 **you must appropriately implement the countRatingEqual5ByBrand(String brand) method, using the Polyglot Approach**.
 - All packages and classes allow you to modify their code. However, prevent modifying any of the current tests.
 
 **4.** **⏰⏰⏰ NOTE THE END TIME ⏰⏰⏰**.
@@ -78,6 +78,3 @@ The properties of the collection are intuitive.
 > Do not alter any of the existing tests.
 > 
 > Don't forget to **NOTE the START and END times** of your coding.
-
-> [!TIP]
-> If necessary, refer to the example in [Polyglot Experiment C1.2](https://github.com/PolyglotExperiment#c12-polyglot-solution) for a polyglot solution.
