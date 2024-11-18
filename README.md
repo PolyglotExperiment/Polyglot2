@@ -67,7 +67,7 @@ The properties of the collection are intuitive.
 ![Tests](/docs/tests.png)
 
 **3.** Once you're ready to start, **⏰⏰⏰ NOTE THE START TIME ⏰⏰⏰**.
-- To ensure the tests pass, 🎯 **you must appropriately implement the countRatingEqual5ByBrand(String brand) method, using the Polyglot Approach**. 💡Remember to check out the **all annotations and their properties** in the model package classes.
+- To ensure the tests pass, 🎯 **you must appropriately implement the countRatingEqual5ByBrand(String brand) method, using the Polyglot Approach**. 💡You must also add the appropriate mapping annotations in the classes to implement the polyglot mapping.
 - All packages and classes allow you to modify their code. However, prevent modifying any of the current tests.
 
 **4.** **⏰⏰⏰ NOTE THE END TIME ⏰⏰⏰**.
