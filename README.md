@@ -80,16 +80,3 @@ The properties of the collection are intuitive.
 > Don't forget to **NOTE the START and END times** of your coding.
 
 **6.** **If this is your SECOND task**, please 🎯 conclude the experiment by filling out the form [https://forms.gle/QwuAV6opgTsqCDK69].
-
-- All packages and classes allow you to modify their code. However, prevent modifying any of the current tests.
-
-**4.** **⏰⏰⏰ NOTE THE END TIME ⏰⏰⏰**.
-
-**5.** Please send email the whole project code (Polyglot2) as a _zip_, _tar.gz_, rar, or _7z_ file to **fernando.opc@gmail.com**. To prevent attachment issues on some email servers, run `mvn clean` or manually delete the `target` and `.git` folder. If you have troubles with email attachments, send only the Java classes that you modified.
-  
-> [!WARNING]
-> Do not alter any of the existing tests.
-> 
-> Don't forget to **NOTE the START and END times** of your coding.
-
-**6.** **If this is your SECOND task**, please 🎯 conclude the experiment by filling out the form [https://forms.gle/QwuAV6opgTsqCDK69].
